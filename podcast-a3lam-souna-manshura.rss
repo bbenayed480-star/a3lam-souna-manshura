@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>شرح أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</title>
+    <description>شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة لحافظ الحكمي - الشيخ صالح العصيمي. برنامج تأسيس المتعلم 1443هـ. 30 حلقة كاملة.</description>
+    <link>https://archive.org/details/A3lam__Souna_Manshura</link>
+    <language>ar</language>
+    <managingEditor>bbenayed480@gmail.com (الشيخ صالح العصيمي)</managingEditor>
+    <itunes:owner>
+      <itunes:name>الشيخ صالح العصيمي</itunes:name>
+      <itunes:email>bbenayed480@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>الشيخ صالح العصيمي</itunes:author>
+    <itunes:summary>شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة لحافظ الحكمي - الشيخ صالح العصيمي. 30 حلقة كاملة.</itunes:summary>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Islam"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <image>
+      <url>https://bbenayed480-star.github.io/a3lam-souna-manshura/1791794315712.jpg</url>
+      <title>شرح أعلام السنة المنشورة - الشيخ صالح العصيمي</title>
+      <link>https://archive.org/details/A3lam__Souna_Manshura</link>
+    </image>
+    <itunes:image href="https://bbenayed480-star.github.io/a3lam-souna-manshura/1791794315712.jpg"/>
+
+    <item>
+      <title>أعلام السنة المنشورة (01) - المقدمة</title>
+      <description>الحلقة 1 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a01.mp3" length="23697817" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep01</guid>
+      <pubDate>Tue, 28 Dec 2021 12:00:00 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (02) - ما هو صدق العزيمة</title>
+      <description>الحلقة 2 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a02.mp3" length="23592960" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep02</guid>
+      <pubDate>Wed, 29 Dec 2021 12:00:00 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (03) - شروط شهادة أن لا إله إلا الله</title>
+      <description>الحلقة 3 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a03.mp3" length="14365491" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep03</guid>
+      <pubDate>Thu, 30 Dec 2021 12:00:00 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (04) - دليل اشتراط الإخلاص</title>
+      <description>الحلقة 4 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a04.mp3" length="16986931" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep04</guid>
+      <pubDate>Fri, 31 Dec 2021 12:00:00 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (05) - ما هو الإيمان</title>
+      <description>الحلقة 5 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a05.mp3" length="21390950" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep05</guid>
+      <pubDate>Sat, 01 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (06) - ما هو توحيد الإلهية</title>
+      <description>الحلقة 6 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a06.mp3" length="22124953" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep06</guid>
+      <pubDate>Sun, 02 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (07) - توحيد الأسماء والصفات</title>
+      <description>الحلقة 7 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a07.mp3" length="13736345" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep07</guid>
+      <pubDate>Mon, 03 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (08) - دلالة الأسماء الحسنى</title>
+      <description>الحلقة 8 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a08.mp3" length="14155776" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep08</guid>
+      <pubDate>Tue, 04 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (09) - صفات الذات من السنة</title>
+      <description>الحلقة 9 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a09.mp3" length="16252928" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep09</guid>
+      <pubDate>Wed, 05 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (10) - مسألة الاستواء عند السلف</title>
+      <description>الحلقة 10 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a10.mp3" length="20552089" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep10</guid>
+      <pubDate>Thu, 06 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (11) - الإيمان بالملائكة</title>
+      <description>الحلقة 11 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a11.mp3" length="12792627" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep11</guid>
+      <pubDate>Fri, 07 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (12) - الإيمان بكتب الله</title>
+      <description>الحلقة 12 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a12.mp3" length="15414067" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep12</guid>
+      <pubDate>Sat, 08 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (13) - صفة الكلام ذاتية أو فعلية</title>
+      <description>الحلقة 13 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a13.mp3" length="20971520" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep13</guid>
+      <pubDate>Sun, 09 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (14) - الإيمان بالرسل</title>
+      <description>الحلقة 14 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a14.mp3" length="20656947" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep14</guid>
+      <pubDate>Mon, 10 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (15) - الإيمان باليوم الآخر</title>
+      <description>الحلقة 15 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a15.mp3" length="13107200" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep15</guid>
+      <pubDate>Tue, 11 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (16) - الإيمان بالموت</title>
+      <description>الحلقة 16 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a16.mp3" length="11744051" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep16</guid>
+      <pubDate>Wed, 12 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (17) - النفخ في الصور</title>
+      <description>الحلقة 17 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a17.mp3" length="21286092" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep17</guid>
+      <pubDate>Thu, 13 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (18) - الميزان يوم القيامة</title>
+      <description>الحلقة 18 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a18.mp3" length="22334668" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep18</guid>
+      <pubDate>Fri, 14 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (19) - رؤية المؤمنين لربهم</title>
+      <description>الحلقة 19 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a19.mp3" length="14365491" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep19</guid>
+      <pubDate>Sat, 15 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (20) - دخول الجنة والنجاة من النار</title>
+      <description>الحلقة 20 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a20.mp3" length="12058624" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep20</guid>
+      <pubDate>Sun, 16 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (21) - مراتب التقدير</title>
+      <description>الحلقة 21 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a21.mp3" length="43620761" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep21</guid>
+      <pubDate>Mon, 17 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (22) - شعب الإيمان</title>
+      <description>الحلقة 22 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a22.mp3" length="21076377" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep22</guid>
+      <pubDate>Tue, 18 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (23) - الكفر العملي الذي لا يخرج من الملة</title>
+      <description>الحلقة 23 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a23.mp3" length="11534336" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep23</guid>
+      <pubDate>Wed, 19 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (24) - حكم السحر والساحر</title>
+      <description>الحلقة 24 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a24.mp3" length="12478054" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep24</guid>
+      <pubDate>Thu, 20 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (25) - حكم الكهان</title>
+      <description>الحلقة 25 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a25.mp3" length="24851251" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep25</guid>
+      <pubDate>Fri, 21 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (26) - حكم من مات مصراً على كبيرة</title>
+      <description>الحلقة 26 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a26.mp3" length="20866662" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep26</guid>
+      <pubDate>Sat, 22 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (27) - أقسام البدع</title>
+      <description>الحلقة 27 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a27.mp3" length="13841203" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep27</guid>
+      <pubDate>Sun, 23 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (28) - مدة الخلافة بعد النبي</title>
+      <description>الحلقة 28 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a28.mp3" length="10905190" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep28</guid>
+      <pubDate>Mon, 24 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (29) - الواجب لولاة الأمور</title>
+      <description>الحلقة 29 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a29.mp3" length="15833497" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep29</guid>
+      <pubDate>Tue, 25 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>أعلام السنة المنشورة (30) - من هي الطائفة الناجية</title>
+      <description>الحلقة 30 من شرح كتاب أعلام السنة المنشورة في اعتقاد الطائفة الناجية المنصورة - الشيخ صالح العصيمي</description>
+      <enclosure url="https://archive.org/download/A3lam__Souna_Manshura/a30.mp3" length="32715571" type="audio/mpeg"/>
+      <guid isPermaLink="false">A3lam__Souna_Manshura-ep30</guid>
+      <pubDate>Wed, 26 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
